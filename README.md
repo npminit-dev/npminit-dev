@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jorge Balsamo</h1>
 <h3 align="center">A passionate web/mobile developer, oriented to the design of modern, responsive and accessible interfaces 🚀.</h3>
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<br>
-<br>
 <br>
 
 🔭 I’m currently working on **NutriDash** 🥗
