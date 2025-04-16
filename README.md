@@ -2,8 +2,6 @@
   <h3 align="center">A passionate web/mobile developer, oriented to the design of modern, responsive and accessible
     interfaces 🚀.</h3>
 
-  🔭 I’m currently working on **NutriDash** 🥗
-
   🌱 I’m currently learning **Expo, Android development workflows, EAS Pipelines.**
 
   👨‍💻 All of my projects are available at
